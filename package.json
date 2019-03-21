@@ -1,0 +1,29 @@
+{
+  "name": "tarea_express",
+  "version": "1.0.1",
+  "description": "Se implemento la primera entrega pero con las salidas por el navegador",
+  "main": "principal.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "yargs": "^13.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waruano/primeraEntregaExpress.git"
+  },
+  "keywords": [
+    "express",
+    "nodeJs",
+    "tda"
+  ],
+  "author": "waruano williamruano@unicauca.edu.co",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waruano/primeraEntregaExpress/issues"
+  },
+  "homepage": "https://github.com/waruano/primeraEntregaExpress#readme"
+}
